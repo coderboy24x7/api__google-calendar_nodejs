@@ -1,0 +1,28 @@
+{
+  "name": "google-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyfreed/tami-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyfreed/tami-playground/issues"
+  },
+  "homepage": "https://github.com/tonyfreed/tami-playground#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-ejs-layouts": "^2.2.0",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0"
+  }
+}
